@@ -3,5 +3,6 @@
 
 Calculator application using HTML, CSS and Javascript
 
-![plot](Calculator/Screenshot (15).png)
+![alt text](https://github.com/anshailaja/CloudVandana/blob/main/Calculator/Screenshot%20(15).png?raw=true)
+
 
